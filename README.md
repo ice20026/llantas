@@ -47,24 +47,24 @@
         <div class="item">
             <img src="1.jpg" alt="Descripción de la imagen 1">
             <h3></h3>
-            <p>negro con rojo guantes </p>
+            <p>llantas marca yamaha anti derrape  </p>
         </div>
         <div class="item">
             <img src="2.jpg" alt="Descripción de la imagen 2">
             <h3> </h3>
-            <p>color azul con diseños </p>
+            <p>llantas de motocros marca serpentro</p>
         </div>
         <div class="item">
             <img src="3.jpg" alt="Descripción de la imagen 3">
             <h3> </h3>
-            <p>guantes de cuero color negro</p></div>
+            <p>llantas de moto deportiva bmw</p></div>
         <div class="item">
             <img src="4.jpg" alt="Descripción de la imagen 3">
             <h3></h3>
-            <p>guantes con touch tactil para usar con telefonos .</p></div>
+            <p>llantas de luki normal </p></div>
   <div class="item">
             <img src="5.jpg" alt="Descripción de la imagen 3">
-       <p>guantes con touch tactil para usar con telefonos .</p></div><body><html> 
+       <p>llantas anti derrape</p></div><body><html> 
             <h3></h3>
        
 
