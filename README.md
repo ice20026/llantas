@@ -45,31 +45,28 @@
     <h1></h1>
     <div class="catalog">
         <div class="item">
-            <img src="01.jpg" alt="Descripción de la imagen 1">
+            <img src="1.jpg" alt="Descripción de la imagen 1">
             <h3></h3>
             <p>negro con rojo guantes </p>
         </div>
         <div class="item">
-            <img src="02.jpg" alt="Descripción de la imagen 2">
+            <img src="2.jpg" alt="Descripción de la imagen 2">
             <h3> </h3>
             <p>color azul con diseños </p>
         </div>
         <div class="item">
-            <img src="03.jpg" alt="Descripción de la imagen 3">
+            <img src="3.jpg" alt="Descripción de la imagen 3">
             <h3> </h3>
             <p>guantes de cuero color negro</p></div>
         <div class="item">
-            <img src="04.jpg" alt="Descripción de la imagen 3">
+            <img src="4.jpg" alt="Descripción de la imagen 3">
             <h3></h3>
             <p>guantes con touch tactil para usar con telefonos .</p></div>
   <div class="item">
-            <img src="1.jpg" alt="Descripción de la imagen 3">
+            <img src="5.jpg" alt="Descripción de la imagen 3">
+       <p>guantes con touch tactil para usar con telefonos .</p></div><body><html> 
             <h3></h3>
-            <p> guantes recortados para usar con telefono .</p> </div>
-      <div class="item">
-            <img src="3.jpg" alt="Descripción de la imagen 3">
-            <h3></h3>
-            <p>guantes de tela de goma  .</p><body><html> 
+       
 
 
 
